@@ -13,3 +13,7 @@
 
 .heightBackgraund {
   height: 600px; }
+
+.cardHeight {
+  object-fit: cover;
+  width: 300px; }
