@@ -1,0 +1,15 @@
+.navbar__right {
+  display: flex;
+  position: relative;
+  font-size: 1rem;
+  justify-content: space-between;
+  padding: 1rem; }
+
+.padding {
+  padding: 40px; }
+
+.indexH2 {
+  padding-top: 70px; }
+
+.heightBackgraund {
+  height: 600px; }
